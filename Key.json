@@ -16,7 +16,9 @@
     },
     "VendoraGacor": {
         "createdBy": "VendoraAdminGANTENG-CC",
-        "devices": [],
+        "devices": [
+            "DEV_4bf07e55"
+        ],
         "expires": "2026-06-28T21:52:16Z",
         "maxDevices": 1
     },
