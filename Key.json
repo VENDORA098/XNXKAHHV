@@ -1,4 +1,9 @@
 {
+    "AHAHAH": {
+        "devices": [],
+        "expires": "2026-04-30T21:24:11Z",
+        "maxDevices": 1
+    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55"
