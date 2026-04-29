@@ -6,6 +6,12 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
+    "LuLzSeCVSEVERYBODY": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-08-06T22:27:01Z",
+        "maxDevices": 1
+    },
     "MEMEKAJG": {
         "createdBy": "dentsmamat-CCOWN",
         "devices": [],
@@ -22,7 +28,7 @@
     },
     "resellers": {
         "dentsmamat-CCOWN": {
-            "balance": 99950.5,
+            "balance": 99901.0,
             "type": "reseller"
         }
     }
