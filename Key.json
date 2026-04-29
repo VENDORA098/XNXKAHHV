@@ -6,12 +6,6 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
-    "LuLzSeCVSEVERYBODY": {
-        "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
-        "expires": "2026-08-06T22:27:01Z",
-        "maxDevices": 1
-    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
@@ -22,14 +16,8 @@
     },
     "resellers": {
         "dentsmamat-CCOWN": {
-            "balance": 99848.5,
+            "balance": 99851.5,
             "type": "reseller"
         }
-    },
-    "yyyy": {
-        "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
-        "expires": "2026-05-05T22:30:15Z",
-        "maxDevices": 1
     }
 }
