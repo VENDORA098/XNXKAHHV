@@ -9,7 +9,8 @@
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
-            "DEV_938ca3d5"
+            "DEV_938ca3d5",
+            "DEV_09011372A6001781"
         ],
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
