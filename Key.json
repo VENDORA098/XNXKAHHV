@@ -22,10 +22,5 @@
         "expires": "2026-06-28T21:52:16Z",
         "maxDevices": 1
     },
-    "resellers": {
-        "VendoraAdminGANTENG-CC": {
-            "balance": 969.0,
-            "type": "reseller"
-        }
-    }
+    "resellers": {}
 }
