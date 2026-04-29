@@ -9,17 +9,10 @@
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
-            "DEV_938ca3d5",
-            "DEV_09011372A6001781"
+            "DEV_938ca3d5"
         ],
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
-    },
-    "luluseccantik-999": {
-        "createdBy": "LULUSEC-COWN",
-        "devices": [],
-        "expires": "2026-04-30T22:16:02Z",
-        "maxDevices": 1
     },
     "resellers": {
         "LULUSEC-COWN": {
