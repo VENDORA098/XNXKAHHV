@@ -14,9 +14,15 @@
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
     },
+    "VendoraGacor": {
+        "createdBy": "VendoraAdminGANTENG-CC",
+        "devices": [],
+        "expires": "2026-06-28T21:52:16Z",
+        "maxDevices": 1
+    },
     "resellers": {
         "VendoraAdminGANTENG-CC": {
-            "balance": 999.0,
+            "balance": 969.0,
             "type": "reseller"
         }
     }
