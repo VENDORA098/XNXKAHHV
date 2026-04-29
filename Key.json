@@ -1,6 +1,8 @@
 {
     "tttt": {
-        "devices": [],
+        "devices": [
+            "DEV_4bf07e55"
+        ],
         "expires": "2026-06-28T20:54:50Z",
         "maxDevices": 5
     }
