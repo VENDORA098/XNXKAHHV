@@ -12,12 +12,6 @@
         "expires": "2026-08-06T22:27:01Z",
         "maxDevices": 1
     },
-    "MEMEKAJG": {
-        "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
-        "expires": "2026-08-06T22:24:04Z",
-        "maxDevices": 1
-    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
