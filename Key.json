@@ -14,9 +14,15 @@
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
     },
+    "kontol": {
+        "createdBy": "LULUSEC-COWN",
+        "devices": [],
+        "expires": "2026-04-30T22:20:41Z",
+        "maxDevices": 1
+    },
     "resellers": {
         "LULUSEC-COWN": {
-            "balance": 100000499.5,
+            "balance": 100000499.0,
             "type": "reseller"
         }
     }
