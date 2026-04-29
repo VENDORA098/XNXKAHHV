@@ -6,6 +6,12 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
+    "MEMEKAJG": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-08-06T22:24:04Z",
+        "maxDevices": 1
+    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
@@ -16,7 +22,7 @@
     },
     "resellers": {
         "dentsmamat-CCOWN": {
-            "balance": 100000.0,
+            "balance": 99950.5,
             "type": "reseller"
         }
     }
