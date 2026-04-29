@@ -14,5 +14,10 @@
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
     },
-    "resellers": {}
+    "resellers": {
+        "dentsmamat-CCOWN": {
+            "balance": 100000.0,
+            "type": "reseller"
+        }
+    }
 }
