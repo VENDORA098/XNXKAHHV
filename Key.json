@@ -1,6 +1,8 @@
 {
     "AHAHAH": {
-        "devices": [],
+        "devices": [
+            "DEV_4bf07e55"
+        ],
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
