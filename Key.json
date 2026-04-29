@@ -16,8 +16,14 @@
     },
     "resellers": {
         "dentsmamat-CCOWN": {
-            "balance": 99849.5,
+            "balance": 99849.0,
             "type": "reseller"
         }
+    },
+    "test": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-04-30T22:46:08Z",
+        "maxDevices": 10
     }
 }
