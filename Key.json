@@ -6,6 +6,12 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
+    "LuLzSeC-KECE": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-05-02T23:08:26Z",
+        "maxDevices": 100
+    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
@@ -16,7 +22,7 @@
     },
     "resellers": {
         "dentsmamat-CCOWN": {
-            "balance": 99849.0,
+            "balance": 99847.5,
             "type": "reseller"
         }
     },
