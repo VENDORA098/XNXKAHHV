@@ -39,7 +39,9 @@
     },
     "Paw-VIP--3Day": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [],
+        "devices": [
+            "DEV_80c357dad5194f8b"
+        ],
         "expires": "2026-05-03T16:24:59Z",
         "maxDevices": 1
     },
