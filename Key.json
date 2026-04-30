@@ -20,8 +20,7 @@
             "DEV_12e5148a314c4e43",
             "DEV_f0019905",
             "DEV_0953925324000192",
-            "DEV_ZD222FB5LV",
-            "DEV_fb5c26dc"
+            "DEV_ZD222FB5LV"
         ],
         "expires": "2026-05-02T23:08:26Z",
         "maxDevices": 100
@@ -78,12 +77,6 @@
         ],
         "expires": "2026-05-06T21:15:05Z",
         "maxDevices": 100
-    },
-    "p4w-pengen-unli": {
-        "createdBy": "Owner",
-        "devices": [],
-        "expires": "29405-05-25T17:33:33Z",
-        "maxDevices": 1
     },
     "resellers": {
         "Nnover-WRCC": {
