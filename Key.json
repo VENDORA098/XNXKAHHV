@@ -41,6 +41,10 @@
             "balance": 130.0,
             "type": "reseller"
         },
+        "RajaSuki-RS": {
+            "balance": 100.0,
+            "type": "reseller"
+        },
         "dentsmamat-CCOWN": {
             "balance": 99847.5,
             "type": "reseller"
