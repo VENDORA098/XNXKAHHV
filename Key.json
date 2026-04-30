@@ -37,6 +37,12 @@
         "expires": "2026-05-01T09:29:33Z",
         "maxDevices": 1
     },
+    "Paw-VIP--3Day": {
+        "createdBy": "P4W-WORKER-CC",
+        "devices": [],
+        "expires": "2026-05-03T16:24:59Z",
+        "maxDevices": 1
+    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
@@ -69,7 +75,7 @@
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
-            "balance": 129.0,
+            "balance": 127.5,
             "type": "reseller"
         },
         "RajaSuki-RS": {
