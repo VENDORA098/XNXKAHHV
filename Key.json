@@ -22,7 +22,8 @@
     "PAW-FREE-1-DAY": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
-            "DEV_102752534S003153"
+            "DEV_102752534S003153",
+            "DEV_2e613319"
         ],
         "expires": "2026-05-01T11:16:01Z",
         "maxDevices": 20
