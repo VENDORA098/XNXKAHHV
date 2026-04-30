@@ -80,7 +80,9 @@
     },
     "p4w---7798": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_2e613319"
+        ],
         "expires": "2026-08-08T17:43:06Z",
         "maxDevices": 1
     },
