@@ -6,6 +6,12 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
+    "Limbo": {
+        "createdBy": "P4W-WORKER-CC",
+        "devices": [],
+        "expires": "2026-11-16T17:21:21Z",
+        "maxDevices": 1
+    },
     "LuLzSeC-KECE": {
         "createdBy": "dentsmamat-CCOWN",
         "devices": [
@@ -78,7 +84,7 @@
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
-            "balance": 127.5,
+            "balance": 27.5,
             "type": "reseller"
         },
         "RajaSuki-RS": {
