@@ -36,6 +36,10 @@
         "maxDevices": 100
     },
     "resellers": {
+        "P4W-WORKER-CC": {
+            "balance": 130.0,
+            "type": "reseller"
+        },
         "dentsmamat-CCOWN": {
             "balance": 99847.5,
             "type": "reseller"
