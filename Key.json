@@ -8,7 +8,9 @@
     },
     "LuLzSeC-KECE": {
         "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
+        "devices": [
+            "DEV_913e68390412"
+        ],
         "expires": "2026-05-02T23:08:26Z",
         "maxDevices": 100
     },
