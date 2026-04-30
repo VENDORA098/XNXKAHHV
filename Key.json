@@ -8,7 +8,9 @@
     },
     "Limbo": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [],
+        "devices": [
+            "DEV_6a2a31d8"
+        ],
         "expires": "2026-11-16T17:21:21Z",
         "maxDevices": 1
     },
