@@ -18,7 +18,9 @@
     },
     "Paw": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [],
+        "devices": [
+            "DEV_2e613319"
+        ],
         "expires": "2026-05-01T09:29:33Z",
         "maxDevices": 1
     },
