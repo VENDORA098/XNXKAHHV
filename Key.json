@@ -8,9 +8,7 @@
     },
     "Limbo": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [
-            "DEV_6a2a31d8"
-        ],
+        "devices": [],
         "expires": "2026-11-16T17:21:21Z",
         "maxDevices": 1
     },
@@ -86,7 +84,7 @@
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
-            "balance": 27.5,
+            "balance": 27.3,
             "type": "reseller"
         },
         "RajaSuki-RS": {
