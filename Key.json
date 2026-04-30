@@ -19,6 +19,12 @@
         "expires": "2026-05-02T23:08:26Z",
         "maxDevices": 100
     },
+    "PAW-FREE-1-DAY": {
+        "createdBy": "P4W-WORKER-CC",
+        "devices": [],
+        "expires": "2026-05-01T11:16:01Z",
+        "maxDevices": 20
+    },
     "Paw": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -52,7 +58,7 @@
     },
     "resellers": {
         "P4W-WORKER-CC": {
-            "balance": 129.5,
+            "balance": 129.0,
             "type": "reseller"
         },
         "RajaSuki-RS": {
