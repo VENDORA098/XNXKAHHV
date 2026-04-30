@@ -61,6 +61,10 @@
         "maxDevices": 100
     },
     "resellers": {
+        "Nnover-WRCC": {
+            "balance": 100.0,
+            "type": "reseller"
+        },
         "P4W-WORKER-CC": {
             "balance": 129.0,
             "type": "reseller"
