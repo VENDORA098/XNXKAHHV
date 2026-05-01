@@ -135,5 +135,11 @@
             "balance": 94848.0,
             "type": "reseller"
         }
+    },
+    "test-vendoea1d": {
+        "createdBy": "Owner",
+        "devices": [],
+        "expires": "2026-05-04T14:03:33Z",
+        "maxDevices": 1
     }
 }
