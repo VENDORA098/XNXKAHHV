@@ -66,6 +66,12 @@
         "expires": "2026-05-03T16:24:59Z",
         "maxDevices": 1
     },
+    "TRIALNICH": {
+        "createdBy": "Nnover-WRCC",
+        "devices": [],
+        "expires": "2026-06-30T04:33:02Z",
+        "maxDevices": 5
+    },
     "Trial-Vendora": {
         "devices": [
             "DEV_4bf07e55",
@@ -107,7 +113,7 @@
     },
     "resellers": {
         "Nnover-WRCC": {
-            "balance": 100.0,
+            "balance": 70.0,
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
