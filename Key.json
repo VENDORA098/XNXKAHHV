@@ -39,6 +39,12 @@
         "expires": "2026-05-02T23:08:26Z",
         "maxDevices": 100
     },
+    "MOBIUS": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2053-09-15T03:16:06Z",
+        "maxDevices": 1
+    },
     "PAW-FREE-1-DAY": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -118,7 +124,7 @@
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
-            "balance": 99847.5,
+            "balance": 94848.0,
             "type": "reseller"
         }
     }
