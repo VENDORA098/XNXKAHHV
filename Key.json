@@ -116,5 +116,11 @@
         ],
         "expires": "2026-05-04T14:03:33Z",
         "maxDevices": 1
+    },
+    "vmvend": {
+        "createdBy": "Owner",
+        "devices": [],
+        "expires": "2026-05-02T15:27:55Z",
+        "maxDevices": 1
     }
 }
