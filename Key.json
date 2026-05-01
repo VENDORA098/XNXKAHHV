@@ -29,7 +29,9 @@
     },
     "P4W-BAJSWA-AI-FREE1D-AQPL": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [],
+        "devices": [
+            "DEV_83TEB8045DW2VCIN"
+        ],
         "expires": "2026-05-02T17:09:22Z",
         "maxDevices": 20
     },
