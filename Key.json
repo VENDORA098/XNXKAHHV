@@ -138,7 +138,9 @@
     },
     "test-vendoea1d": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_fb5c26dc"
+        ],
         "expires": "2026-05-04T14:03:33Z",
         "maxDevices": 1
     }
