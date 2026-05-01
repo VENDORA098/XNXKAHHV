@@ -146,6 +146,12 @@
         "expires": "2026-05-04T14:03:33Z",
         "maxDevices": 1
     },
+    "vendora": {
+        "createdBy": "Owner",
+        "devices": [],
+        "expires": "2026-11-17T20:51:13Z",
+        "maxDevices": 1
+    },
     "vmvend": {
         "createdBy": "Owner",
         "devices": [
