@@ -119,7 +119,9 @@
     },
     "vmvend": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_83TEB8045DW2VCIN"
+        ],
         "expires": "2026-05-02T15:27:55Z",
         "maxDevices": 1
     }
