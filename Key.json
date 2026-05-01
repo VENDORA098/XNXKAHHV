@@ -14,6 +14,12 @@
         "expires": "2026-11-16T17:21:21Z",
         "maxDevices": 1
     },
+    "LuLzSeC-GGWP": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-05-04T14:34:27Z",
+        "maxDevices": 100
+    },
     "PAW-FREE-1-DAY": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -97,7 +103,7 @@
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
-            "balance": 94848.0,
+            "balance": 94846.5,
             "type": "reseller"
         }
     },
