@@ -16,7 +16,9 @@
     },
     "LuLzSeC-GGWP": {
         "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
+        "devices": [
+            "DEV_0953925324000192"
+        ],
         "expires": "2026-05-04T14:34:27Z",
         "maxDevices": 100
     },
