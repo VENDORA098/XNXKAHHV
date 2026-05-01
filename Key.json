@@ -14,42 +14,6 @@
         "expires": "2026-11-16T17:21:21Z",
         "maxDevices": 1
     },
-    "LuLzSeC-KECE": {
-        "createdBy": "dentsmamat-CCOWN",
-        "devices": [
-            "DEV_913e68390412",
-            "DEV_10608373B9133047",
-            "DEV_12e5148a314c4e43",
-            "DEV_f0019905",
-            "DEV_0953925324000192",
-            "DEV_ZD222FB5LV",
-            "DEV_KJ85EI5TLR8XBIQK",
-            "DEV_248c8d7d",
-            "DEV_4bf07e55",
-            "DEV_W8YTEQMFJJJFUSBY",
-            "DEV_1f07c42a",
-            "DEV_117091543E001356",
-            "DEV_117091543E003116",
-            "DEV_134227049L016119",
-            "DEV_83TEB8045DW2VCIN",
-            "DEV_5P4HFQU4MJQG7LUK",
-            "DEV_SAVIW7H0OR15NMP8",
-            "DEV_099274036F000696",
-            "DEV_1165737421006816",
-            "DEV_cdf949e4",
-            "DEV_92f53a94",
-            "DEV_102752534S003153",
-            "DEV_155312558S006608",
-            "DEV_c9c95155",
-            "DEV_35e36f0c",
-            "DEV_116813343B008273",
-            "DEV_dbfbd332",
-            "DEV_O78TWKZPDEOZ9TCQ",
-            "DEV_106293738V007469"
-        ],
-        "expires": "2026-05-02T23:08:26Z",
-        "maxDevices": 100
-    },
     "PAW-FREE-1-DAY": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
