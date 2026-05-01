@@ -29,9 +29,7 @@
     },
     "P4W-BAJSWA-AI-FREE1D-AQPL": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [
-            "DEV_83TEB8045DW2VCIN"
-        ],
+        "devices": [],
         "expires": "2026-05-02T17:09:22Z",
         "maxDevices": 20
     },
@@ -102,7 +100,9 @@
     },
     "Vendora-Jawa-CCJY": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_4bf07e55"
+        ],
         "expires": "2026-05-04T17:16:43Z",
         "maxDevices": 100
     },
