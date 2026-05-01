@@ -117,6 +117,10 @@
         "maxDevices": 1
     },
     "resellers": {
+        "@CHEATGAME_ONLINE-RS-RV": {
+            "balance": 300.0,
+            "type": "reseller"
+        },
         "Nnover-WRCC": {
             "balance": 69.8,
             "type": "reseller"
