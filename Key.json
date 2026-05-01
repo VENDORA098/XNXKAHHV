@@ -148,7 +148,9 @@
     },
     "vendora": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_4bf07e55"
+        ],
         "expires": "2026-11-17T20:51:13Z",
         "maxDevices": 1
     },
