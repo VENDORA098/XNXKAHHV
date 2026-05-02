@@ -150,6 +150,10 @@
         "dentsmamat-CCOWN": {
             "balance": 94846.5,
             "type": "reseller"
+        },
+        "han-STORE-RS": {
+            "balance": 50.0,
+            "type": "reseller"
         }
     },
     "test-vendoea1d": {
