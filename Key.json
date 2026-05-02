@@ -144,6 +144,12 @@
         "expires": "2026-05-04T17:16:43Z",
         "maxDevices": 100
     },
+    "Vincent-lipe-TT": {
+        "createdBy": "Owner",
+        "devices": [],
+        "expires": "2026-05-09T18:09:12Z",
+        "maxDevices": 1
+    },
     "p4w---7798": {
         "createdBy": "Owner",
         "devices": [
