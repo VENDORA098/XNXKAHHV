@@ -147,7 +147,9 @@
     },
     "Vincent-lipe-TT": {
         "createdBy": "Owner",
-        "devices": [],
+        "devices": [
+            "DEV_PC10LBYICHF23192"
+        ],
         "expires": "2026-05-09T18:09:12Z",
         "maxDevices": 1
     },
