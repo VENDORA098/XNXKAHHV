@@ -72,7 +72,9 @@
     },
     "PAW-QOS-AHEB": {
         "createdBy": "P4W-WORKER-CC",
-        "devices": [],
+        "devices": [
+            "DEV_81350a6f6c0c153affa5ec564a691170abdff6e71da0109980b719b38965fc77"
+        ],
         "expires": "2026-05-05T13:00:44Z",
         "maxDevices": 10
     },
