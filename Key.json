@@ -70,6 +70,12 @@
         "expires": "2026-05-01T11:16:01Z",
         "maxDevices": 20
     },
+    "PAW-QOS-AHEB": {
+        "createdBy": "P4W-WORKER-CC",
+        "devices": [],
+        "expires": "2026-05-05T13:00:44Z",
+        "maxDevices": 10
+    },
     "Paw": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -207,7 +213,7 @@
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
-            "balance": 126.8,
+            "balance": 125.8,
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
