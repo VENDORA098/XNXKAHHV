@@ -1,1 +1,8 @@
-
+{
+    "resellers": {
+        "LULUZSEC_DEN-CO": {
+            "balance": 1000.0,
+            "type": "reseller"
+        }
+    }
+}
