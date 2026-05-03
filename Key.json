@@ -69,6 +69,12 @@
         "expires": "2026-05-02T17:09:22Z",
         "maxDevices": 20
     },
+    "PAW-2D-3ZARDAKW": {
+        "createdBy": "P4W-WORKER-CC",
+        "devices": [],
+        "expires": "2026-05-05T15:30:05Z",
+        "maxDevices": 2
+    },
     "PAW-FREE-1-DAY": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -228,7 +234,7 @@
             "type": "reseller"
         },
         "P4W-WORKER-CC": {
-            "balance": 125.8,
+            "balance": 124.8,
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
