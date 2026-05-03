@@ -6,6 +6,12 @@
         "expires": "2026-04-30T21:24:11Z",
         "maxDevices": 1
     },
+    "GGWP-VEINZ": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-06-02T10:46:16Z",
+        "maxDevices": 2
+    },
     "Limbo": {
         "createdBy": "P4W-WORKER-CC",
         "devices": [
@@ -203,7 +209,7 @@
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
-            "balance": 94830.0,
+            "balance": 94815.0,
             "type": "reseller"
         },
         "han-STORE-RS": {
