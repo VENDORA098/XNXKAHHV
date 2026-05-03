@@ -8,7 +8,9 @@
     },
     "GGWP-VEINZ": {
         "createdBy": "dentsmamat-CCOWN",
-        "devices": [],
+        "devices": [
+            "DEV_83TEB8045DW2VCIN"
+        ],
         "expires": "2026-06-02T10:46:16Z",
         "maxDevices": 2
     },
