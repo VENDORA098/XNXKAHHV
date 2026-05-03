@@ -8,9 +8,7 @@
     },
     "GGWP-VEINZ": {
         "createdBy": "dentsmamat-CCOWN",
-        "devices": [
-            "DEV_938ca3d5"
-        ],
+        "devices": [],
         "expires": "2026-06-02T10:46:16Z",
         "maxDevices": 2
     },
@@ -211,7 +209,7 @@
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
-            "balance": 94815.0,
+            "balance": 94814.8,
             "type": "reseller"
         },
         "han-STORE-RS": {
