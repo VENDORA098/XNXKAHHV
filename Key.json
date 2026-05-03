@@ -74,6 +74,12 @@
         "expires": "2026-05-03T16:24:59Z",
         "maxDevices": 1
     },
+    "THANKSTUTOR-30DAYS": {
+        "createdBy": "dentsmamat-CCOWN",
+        "devices": [],
+        "expires": "2026-06-02T05:43:57Z",
+        "maxDevices": 2
+    },
     "TRIALNICH": {
         "createdBy": "Nnover-WRCC",
         "devices": [],
@@ -190,7 +196,7 @@
             "type": "reseller"
         },
         "dentsmamat-CCOWN": {
-            "balance": 94845.0,
+            "balance": 94830.0,
             "type": "reseller"
         },
         "han-STORE-RS": {
